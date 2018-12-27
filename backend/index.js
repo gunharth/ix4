@@ -1,5 +1,5 @@
-const http = require('http')
-const port = 3001
+const http = require('http');
+const port = 3001;
 const fs = require('fs');
 
 const urls = [
